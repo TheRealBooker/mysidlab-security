@@ -1,8 +1,8 @@
 ---
 users:
   - name: user1
-    aws_groups: "MamaBear, PAPAbear, BabyBear"
+    aws_groups: "mamabear, papabear, babybear"
   - name: user2
-    aws_groups: "Mando, Lando, Cando"
+    aws_groups: "mando, lando, cando"
   - name: user3
-    aws_groups: "Orcs, Goblins, Trolls"
+    aws_groups: "orcs, goblins, trolls"
