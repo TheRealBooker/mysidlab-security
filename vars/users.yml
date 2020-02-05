@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
-    aws_groups: "mamabear, papabear, babybear"
-  - name: user2
-    aws_groups: "mando, lando, cando"
-  - name: user3
-    aws_groups: "orcs, goblins, trolls"
+  - name: MamaBear
+    aws_groups: "sacramento, fresno, indior"
+  - name: PapaBear
+    aws_groups: "losangeles, sanfrancisco, napa"
+  - name: BabyBear
+    aws_groups: "palmsprings, indio, sandiego"
